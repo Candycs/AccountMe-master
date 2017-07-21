@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "779502550616",
+    "firebase_url": "https://my-account-d6b3b.firebaseio.com",
+    "project_id": "my-account-d6b3b",
+    "storage_bucket": "my-account-d6b3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779502550616:android:d0879b47ad6cb74c",
+        "android_client_info": {
+          "package_name": "com.ubu.it.myaccount"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779502550616-9n3lcm0oneiu04me3cpn7l73q5rlbtg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQDxR_RFrJ1OObIp9ZKbko0vZ6YsKRcEI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
